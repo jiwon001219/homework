@@ -5,11 +5,11 @@ import profileImg from './assets/images/zi-a.png';
 function App() {
   return (
     <div className="main-container">
-      <h1 className="title">정지아의 리액트 ✨</h1>
+      <h1 className="title">백지원의 리액트 ✨</h1>
 
       <ProfileCard
         image={profileImg}
-        name="정지아"
+        name="백지원"
         description="신소재를 사랑하는 개발자입니다."
       />
 
